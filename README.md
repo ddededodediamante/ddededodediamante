@@ -1,6 +1,15 @@
-I'm ddededodediamante!
+<div align="center">
+  <img alt="ddededodediamante" width="70%" src="dde.svg">
+</div>
 
-<div style="display: inline;">
+<div align="center">
+  I am a full-stack developer, I create games, websites and Discord bots. <br>
+  I live in <img style="height: 1em; vertical-align: middle;" src="argentina.svg" /> Argentina, my primary language is Spanish but I also know English.
+</div>
+
+<br />
+
+<div align="center" style="display: inline;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
